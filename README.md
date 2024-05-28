@@ -4,6 +4,7 @@
 3.	進入至虛擬環境
 4.	Python manage.py runserver
 5.	查URLS
+   
 ![image](https://github.com/HiImPeggy/DbProject/assets/171018168/b5f57500-a16e-4648-ad18-7f18e19750be)
 
 Menu -> 進入網站
