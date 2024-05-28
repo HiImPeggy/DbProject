@@ -55,7 +55,7 @@ https://chenuin.blogspot.com/2018/10/django-static-filescss-javascript-images.ht
  ![image](https://github.com/HiImPeggy/DbProject/assets/171018168/f8a93fd6-fbbf-4cbf-b11b-f5a9bfcca378)
 
 
-(2)	Html中要加入 load static
+(2)	Html中要加入 load static，連上的網站才能接收動作並回傳
 
  ![image](https://github.com/HiImPeggy/DbProject/assets/171018168/50320baf-fb2d-4ad5-a688-eb26663606a9)
 
